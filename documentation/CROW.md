@@ -1,1 +1,8 @@
+# Crow Analyse:
 
+| Dimension | Beschreibung |
+|:---------:|:-------------|
+|Character | Unsere Nutzer sind hauptsächlich Spieler die Minecraft auf einem PC/Laptop spielen. Dabei haben sie im optionalen Fall bereits Erfahrung mit der Steuerung in Minecraft und dem Spiel selbst. Sie suchen eine intuitivere Möglichkeit die Bewegung des in-Game Charakters zu kontrollieren, oder suchen eine herausforderung bzw. neue art das Spiel zu spielen,entdecken und zu erleben. |
+|Relationship | Die Nutzer sind im größten Teil unerfahren in der Nutzung bewegungsbasierter Steuerungsarten und benötigen deshalb zusätzliche Hilfen/Anleitungen so wie eine kurze Lernkurve bzw. eine simple und intuitive Integration der Mod in Minecraft. |
+|Object | Die Nutzer möchten ein unterhaltsames Erlebnis was auf Minecraft aufbaut und dieses um eine neue Steuerungsmöglichkeit erweitert. Dafür wollen sie eine reaktionsschnelle Umsetzung der Bewegungen in-Game damit sich die Steuerung so natürlich wie möglich anfühlt und unwohlsein durch zu große verzögerungen vermieden wird. Dabei ist es auch wichtig das Deadzones verwendet werden um eine zu steife, unnatürliche und unangenehme Körperhaltung zu vermeiden. |
+|Where | Die Mod wird hauptsächlich zu Hause genutzt, mit genügend Platz um simple Bewegungen wie das Lehnen nach vorne/links/hinten/rechts zu ermöglichen. Wichtig ist ein statisches Objekt, wie z.B.: ein Schreibtisch, um die Kamera zu plazieren, sowie gute Lichtverhältnisse um die Möglichkeit von Fehlerkennungen und Inputs soweit wie möglich zu reduzieren und das Spielerlebnis so reibungslos wie möglich zu gestallten. |
