@@ -18,31 +18,30 @@ Dies sorgt für eine zuverlässige Steuerung.
 
 ---
 
-## Panel 3 – Umschauen durch Kopfdrehung
-Der Spieler dreht den Kopf leicht zur Seite, um die Blickrichtung im Spiel zu ändern.  
-Die Kopfdrehung wird 1:1 ins Spiel übertragen, sodass sich die Kamera in Minecraft mitbewegt.  
-Ein Overlay zeigt „Head movement detected“.
+## Panel 3 – Kopfdrehung nach links
+Der Spieler dreht den Kopf deutlich nach links, um sich im Spiel umzuschauen.  
+Die Drehbewegung des Kopfes wird direkt auf die Kamera im Spiel übertragen.  
+Die Minecraft-Ansicht schwenkt sichtbar nach links.
 
 ---
 
-## Panel 4 – Bewegung durch Körperneigung
+## Panel 4 – Kopfdrehung nach rechts
+Der Spieler dreht den Kopf deutlich nach rechts, um die Blickrichtung zu ändern.  
+Die Drehbewegung wird 1:1 im Spiel nachvollzogen.  
+Die Minecraft-Ansicht schwenkt sichtbar nach rechts.
+
+---
+
+## Panel 5 – Bewegung durch Körperneigung
 Durch eine leichte Vorwärtsneigung bewegt sich die Spielfigur im Spiel vorwärts.  
 Auch Links- und Rechtsbewegungen entstehen durch entsprechende Körperneigungen.  
 Die Steuerung wirkt natürlich und körperlich intuitiv.
 
 ---
 
-## Panel 5 – Navigation in der Minecraft-Welt
+## Panel 6 – Navigation in der Minecraft-Welt
 Der Nutzer kombiniert Kopf- und Körperbewegungen, um sich flüssig durch die Welt zu bewegen.  
 Er läuft zwischen Bäumen hindurch und schaut sich dynamisch um.  
 Die Mod ermöglicht ein immersives Spielerlebnis ohne Mausbewegungen.
 
 ---
-
-## Panel 6 – Sprachbefehl: Inventar öffnen
-Der Nutzer sagt „Open Inventory“, woraufhin das Inventar sofort im Spiel erscheint.  
-Die Sprachsteuerung ergänzt die Bewegungssteuerung für komplexere Aktionen.  
-Multimodalität reduziert die Notwendigkeit von Tastatureingaben.
-
----
-
